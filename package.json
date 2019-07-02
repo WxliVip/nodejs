@@ -1,0 +1,16 @@
+{
+  "name": "lw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^4.4.0",
+    "mssql": "^5.1.0"
+  }
+}
