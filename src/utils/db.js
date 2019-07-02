@@ -3,8 +3,8 @@ const log = require("./log");
 const logger = log.getLogger("db");
 const connConfig = {
     user: 'sa',
-    password: 'Juyee@20180319',
-    server: '192.168.1.248', // You can use 'localhost\\instance' to connect to named instance
+    password: 'aaaaaa',
+    server: 'localhost', // You can use 'localhost\\instance' to connect to named instance
     database: 'ZZSB',
     connectionTimeout: 120000,
     requestTimeout: 3000000,
